@@ -5,11 +5,11 @@ An API wrapper for Strava
 ## Usage
 
 ```js
-const Strava = require('node-strava)
+const Strava = require('node-strava');
 const strava = new Strava({
   client_id,
   client_secret
-})
+});
 ```
 
 ### Login
